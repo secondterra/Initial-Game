@@ -1,15 +1,15 @@
 # Inicial-Game
-Juego de rol multijugador online con gráficos 2D
+Online multiplayer role-playing game with 2D graphics
 
-Proyecto en desarrollo abierto a colaboración por parte de programadores externos.
-Tecnologías usadas:
-- Vanilla JS
-- Pyhton
-- Websockets (Libreria websockets-9.1)
+Project under development open to collaboration by external programmers.
+Technologies used:
+-VanillaJS
+- Python
+- Websockets (Library websockets-9.1)
 
-Prueba en: https://bit.ly/3rwfYpp
+Try on: https://bit.ly/3rwfYpp
 
-Últimas modificaciones:
-- Agosto 13 2021: Revisión de caracteres en el Chat global para evitar injección de HTML.
-- Agosto 14 2021: Mejoras en la estructura del cliente aplicando encapsulamiento.
-- Agosto 14 2021: Mejoras en el sistema de colisones para evitar atascarse.
+Latest modifications:
+- August 13 2021: Review of characters in the Global Chat to avoid HTML injection.
+- August 14 2021: Improvements in the client structure applying encapsulation.
+- August 14 2021: Improvements to the collision system to avoid getting stuck.
