@@ -7,7 +7,7 @@ Tecnologías usadas:
 - Pyhton
 - Websockets (Libreria websockets-9.1)
 
-Prueba en: https://www.uigosoft.com/RPG/mmorpg.html?fbclid=IwAR2j0o1oDTCucKWNtKnJj48dUc0NlGXYv4WhC9xiIXUWK5CPz1lnauvEaYY
+Prueba en: https://bit.ly/3rwfYpp
 
 Últimas modificaciones:
 - Agosto 13 2021: Revisión de caracteres en el Chat global para evitar injección de HTML.
