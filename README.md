@@ -1,4 +1,4 @@
-# Inicial-Game
+# Initial Game
 Online multiplayer role-playing game with 2D graphics
 
 Project under development open to collaboration by external programmers.
